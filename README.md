@@ -92,7 +92,7 @@ docker-compose.yml
 
 ---
 
-## 🧑‍💻 Author
+## Author
 **Kaung Htet cho** — AI/ML Engineer | Football Content Creator
 
 ---
