@@ -3,19 +3,19 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🗣️ **AI Voiceover** (ElevenLabs)
-- 🎞️ **Auto-generated tactical visuals** (matplotlib / RunwayML)
-- ✍️ **Auto captions** via Whisper
-- 🧩 **Video composition** via FFmpeg
-- 🎛️ **UI Frontend** to input scripts, voice styles, animation preferences
-- ⚙️ **FastAPI backend** for processing
-- 🐳 **Dockerized** for local or cloud deployment
+- **AI Voiceover** (ElevenLabs)
+- **Auto-generated tactical visuals** (matplotlib / RunwayML)
+- **Auto captions** via Whisper
+  **Video composition** via FFmpeg
+- **UI Frontend** to input scripts, voice styles, animation preferences
+- **FastAPI backend** for processing
+- **Dockerized** for local or cloud deployment
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: React + TailwindCSS (via Lovable.dev)
 - **Backend**: FastAPI + Python services
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -78,7 +78,7 @@ Generates a football tactics video.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 frontend/         # React UI
 backend/
@@ -89,12 +89,6 @@ Dockerfile.*      # Frontend & backend containers
 docker-compose.yml
 ```
 
----
-
-## 🧠 Roadmap
-- [ ] Add video preview on frontend
-- [ ] Add queue + progress tracking
-- [ ] Add user uploads for custom music/logo
 
 ---
 
